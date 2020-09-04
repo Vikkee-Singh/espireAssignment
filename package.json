@@ -1,0 +1,15 @@
+{
+  "name": "espireAssignment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^26.4.2"
+  },
+  "repository": "https://github.com/Vikkee-Singh/espireAssignment.git",
+  "author": "VikkkeeSingh <vikkee.singh@clasicinformatics.com>",
+  "license": "MIT",
+  "private": null
+}
